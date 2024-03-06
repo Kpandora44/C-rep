@@ -1,0 +1,14 @@
+C:\Users\30058088\Desktop\array\array3\bin\Debug\net7.0\array3.exe
+C:\Users\30058088\Desktop\array\array3\bin\Debug\net7.0\array3.deps.json
+C:\Users\30058088\Desktop\array\array3\bin\Debug\net7.0\array3.runtimeconfig.json
+C:\Users\30058088\Desktop\array\array3\bin\Debug\net7.0\array3.dll
+C:\Users\30058088\Desktop\array\array3\bin\Debug\net7.0\array3.pdb
+C:\Users\30058088\Desktop\array\array3\obj\Debug\net7.0\array3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30058088\Desktop\array\array3\obj\Debug\net7.0\array3.AssemblyInfoInputs.cache
+C:\Users\30058088\Desktop\array\array3\obj\Debug\net7.0\array3.AssemblyInfo.cs
+C:\Users\30058088\Desktop\array\array3\obj\Debug\net7.0\array3.csproj.CoreCompileInputs.cache
+C:\Users\30058088\Desktop\array\array3\obj\Debug\net7.0\array3.dll
+C:\Users\30058088\Desktop\array\array3\obj\Debug\net7.0\refint\array3.dll
+C:\Users\30058088\Desktop\array\array3\obj\Debug\net7.0\array3.pdb
+C:\Users\30058088\Desktop\array\array3\obj\Debug\net7.0\array3.genruntimeconfig.cache
+C:\Users\30058088\Desktop\array\array3\obj\Debug\net7.0\ref\array3.dll
