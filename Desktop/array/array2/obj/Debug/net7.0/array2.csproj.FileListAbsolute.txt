@@ -1,0 +1,14 @@
+C:\Users\30058088\Desktop\array\array2\obj\Debug\net7.0\array2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30058088\Desktop\array\array2\obj\Debug\net7.0\array2.AssemblyInfoInputs.cache
+C:\Users\30058088\Desktop\array\array2\obj\Debug\net7.0\array2.AssemblyInfo.cs
+C:\Users\30058088\Desktop\array\array2\obj\Debug\net7.0\array2.csproj.CoreCompileInputs.cache
+C:\Users\30058088\Desktop\array\array2\bin\Debug\net7.0\array2.exe
+C:\Users\30058088\Desktop\array\array2\bin\Debug\net7.0\array2.deps.json
+C:\Users\30058088\Desktop\array\array2\bin\Debug\net7.0\array2.runtimeconfig.json
+C:\Users\30058088\Desktop\array\array2\bin\Debug\net7.0\array2.dll
+C:\Users\30058088\Desktop\array\array2\bin\Debug\net7.0\array2.pdb
+C:\Users\30058088\Desktop\array\array2\obj\Debug\net7.0\array2.dll
+C:\Users\30058088\Desktop\array\array2\obj\Debug\net7.0\refint\array2.dll
+C:\Users\30058088\Desktop\array\array2\obj\Debug\net7.0\array2.pdb
+C:\Users\30058088\Desktop\array\array2\obj\Debug\net7.0\array2.genruntimeconfig.cache
+C:\Users\30058088\Desktop\array\array2\obj\Debug\net7.0\ref\array2.dll
