@@ -1,0 +1,14 @@
+C:\Users\30058088\Desktop\functions\seminar_task2\obj\Debug\net7.0\seminar_task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30058088\Desktop\functions\seminar_task2\obj\Debug\net7.0\seminar_task2.AssemblyInfoInputs.cache
+C:\Users\30058088\Desktop\functions\seminar_task2\obj\Debug\net7.0\seminar_task2.AssemblyInfo.cs
+C:\Users\30058088\Desktop\functions\seminar_task2\obj\Debug\net7.0\seminar_task2.csproj.CoreCompileInputs.cache
+C:\Users\30058088\Desktop\functions\seminar_task2\bin\Debug\net7.0\seminar_task2.exe
+C:\Users\30058088\Desktop\functions\seminar_task2\bin\Debug\net7.0\seminar_task2.deps.json
+C:\Users\30058088\Desktop\functions\seminar_task2\bin\Debug\net7.0\seminar_task2.runtimeconfig.json
+C:\Users\30058088\Desktop\functions\seminar_task2\bin\Debug\net7.0\seminar_task2.dll
+C:\Users\30058088\Desktop\functions\seminar_task2\bin\Debug\net7.0\seminar_task2.pdb
+C:\Users\30058088\Desktop\functions\seminar_task2\obj\Debug\net7.0\seminar_task2.dll
+C:\Users\30058088\Desktop\functions\seminar_task2\obj\Debug\net7.0\refint\seminar_task2.dll
+C:\Users\30058088\Desktop\functions\seminar_task2\obj\Debug\net7.0\seminar_task2.pdb
+C:\Users\30058088\Desktop\functions\seminar_task2\obj\Debug\net7.0\seminar_task2.genruntimeconfig.cache
+C:\Users\30058088\Desktop\functions\seminar_task2\obj\Debug\net7.0\ref\seminar_task2.dll
